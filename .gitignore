@@ -1,0 +1,8 @@
+# Compiled build output
+build/
+*/build/
+*.class
+*.jar
+
+# NetBeans private/user-specific files
+**/nbproject/private/
